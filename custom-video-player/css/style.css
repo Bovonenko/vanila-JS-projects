@@ -46,15 +46,15 @@ h1 {
     cursor: pointer;
 }
 
-.controls .fa-play {
+.controls .la-play {
     color: #28a745;
 }
 
-.controls .fa-stop {
+.controls .la-stop {
     color: #de3545;
 }
 
-.controls .fa-pause {
+.controls .la-pause {
     color: #fff;
 }
 
